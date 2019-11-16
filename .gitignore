@@ -1,4 +1,8 @@
+# Related to jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+#Related to webpack
+node_modules
